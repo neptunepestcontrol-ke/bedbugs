@@ -4,4 +4,4 @@ Each slot shows a red IMAGE NEEDED box on the page until the file exists. Save t
 
 | File | What it should show |
 |---|---|
-| `assets/img/bb-process-protect.jpg` | Technician showing the customer the 4-month guarantee card |
+
